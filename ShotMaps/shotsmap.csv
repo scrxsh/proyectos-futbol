@@ -1,0 +1,31 @@
+team,shotType,situation,time,Futbolista,x,y
+IDV,miss,assisted,7,Patrik Mercado  ,26.1,24.6  
+IDV,goal,assisted,11,Michael Hoyos  ,10.9,39.1  
+IDV,goal,assisted,21,Claudio Spinelli  ,2.4,46
+IDV,miss,assisted,29,Thiago Santamaría  ,29.4,76.3  
+IDV,block,assisted,38,Patrik Mercado  ,20.4,36.1  
+IDV,miss,corner,40,Claudio Spinelli  ,11.6,47.3  
+IDV,miss,assisted,43,Patrik Mercado  ,29.5,48.5  
+IDV,block,free-kick,90,Junior Sornoza  ,70.2,20.5  
+River Plate,goal,corner,8,Sebastián Driussi,50.7,3.6
+River Plate,miss,assisted,16,Giuliano Galoppo,39.9,27.3
+River Plate,goal,regular,26,Luis Felipe Zárate,52,3.1
+River Plate,block,assisted,31,Franco Mastantuono,70.9,19.8
+River Plate,miss,regular,33,Giuliano Galoppo,55.4,26.1
+River Plate,block,assisted,35,Franco Mastantuono,65.5,11.8
+River Plate,miss,assisted,37,Milton Casco,27.9,4.6
+River Plate,miss,assisted,44,Nacho Fernández,72.1,19.3
+River Plate,goal,penalty,45,Franco Mastantuono,50,11.5
+River Plate,miss,assisted,45,Giuliano Galoppo,33.1,16.9
+River Plate,block,free-kick,49,Franco Mastantuono,42.8,22
+River Plate,goal,assisted,51,Maximiliano Meza,54.7,18.8
+River Plate,miss,assisted,56,Maximiliano Meza,67.3,24.8
+River Plate,block,fast-break,57,Sebastián Driussi,45,12.6
+River Plate,save,corner,58,Lucas Martínez Quarta,49.1,14.5
+River Plate,block,assisted,60,Sebastián Driussi,50.3,19.9
+River Plate,save,assisted,62,Miguel Borja,66.7,9.9
+River Plate,block,regular,75,Maximiliano Meza,47.9,27.2
+River Plate,miss,assisted,82,Manuel Lanzini,68,14.6
+River Plate,block,assisted,83,Kevin Castaño,50.1,19
+River Plate,goal,assisted,88,Miguel Borja,33.4,8.4
+River Plate,goal,assisted,90,Manuel Lanzini,54.6,22.5
