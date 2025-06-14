@@ -66,8 +66,7 @@ proyectos-futbol/
    ```bash
    git clone https://github.com/scrxsh/proyectos-futbol.git
    cd proyectos-futbol
-2. Crea y activa un entorno virtual en Windows
-**Windows:**
+2. Crea y activa un entorno virtual en **Windows:**
 	```bash
 	python -m venv .venv
 	.venv/bin/activate 
@@ -84,6 +83,8 @@ Para ello se debe instalar las librerías ubicadas en el archivo requeriments.tx
 ```bash
 pip install -r requirements.txt
 ```
+Además es necesario tener instalado el navegador Google Chrome en su última versión para scrapear los datos de SofaScore
+
 ## 📝 Notas adicionales
 El archivo SpaceGrotesk-Regular.ttf puede ser usado para personalizar visualmente los gráficos.
 
