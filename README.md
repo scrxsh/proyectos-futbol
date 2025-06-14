@@ -4,33 +4,6 @@ Este repositorio contiene una colección de notebooks y datos dedicados al anál
 
 ---
 
-## 📁 Estructura del proyecto
-
-proyectos-futbol/  
-├── Fotmob/  
-│ ├── csv/  
-│ │ ├── final_uel.csv  
-│ │ ├── premier_league_defenders.csv  
-│ │ └── fotmob.ipynb  
-│  
-├── Rendimientos/  
-│ ├── fonts/  
-│ │ └── SpaceGrotesk-Regular.ttf  
-│ ├── equipos_fpc.json  
-│ ├── equipos.json  
-│ └── rendimiento.ipynb  
-│  
-├── ShotMaps/  
-│ ├── shotmap.ipynb  
-│ └── shotmap.csv  
-│  
-├── Sofascore/  
-│ └── sofascore.ipynb  
-
-
-
----
-
 ## 📊 Funcionalidades principales
 
 - **Análisis de datos de ligas europeas y locales** a partir de CSV y JSON.
